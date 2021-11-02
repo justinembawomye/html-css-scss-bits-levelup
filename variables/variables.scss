@@ -1,0 +1,14 @@
+$color: brown;
+$background-color:#ccc;
+ul{
+    font-size: 20px;
+    color: $color;
+}
+
+ol{
+    font-size: 17px;
+    color: $color;
+}
+body{
+    background-color: $background-color;
+}
